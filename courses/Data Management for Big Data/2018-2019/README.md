@@ -1,12 +1,13 @@
 # 2018-2019 edition of the course
 
-Held by: Prof. Angelo Montanari (Part I), Dr. Dario Della Monica (Part II), Prof. Massimo Franceschet and M.Sc. Paolo Gallo (Part III)
+Held by: Prof. Angelo Montanari (Part I), Dr. Dario Della Monica (Part II), M.Sc. Paolo Gallo (Part III)
 
 ## Lecture materials
 
 ### Part 1: Fundamentals of database systems
 
 ### Part 2: Advanced database models, languages, and systems
+* Click [here](https://users.dimi.uniud.it/~dario.dellamonica/teaching/19_Data_Management_for_Big_Data/19_Data_Management_for_Big_Data.php) for course info
 
 ### Part 3: Data analysis and big data
 * [Data warehousing](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2018-2019/Data_Warehousing.zip)
